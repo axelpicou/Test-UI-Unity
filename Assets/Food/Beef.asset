@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f34428e1c16664bb50449b09145606, type: 3}
+  m_Name: Beef
+  m_EditorClassIdentifier: 
+  description: beef my guy
+  Prefab: {fileID: 6464743579968483024, guid: 24bb222311ea4c447b280bdb86580df3, type: 3}
+  Image: {fileID: 21300000, guid: 3877f47011d7ff04997fd85502bd3731, type: 3}
